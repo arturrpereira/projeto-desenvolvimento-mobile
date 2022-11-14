@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">projeto-desenvolvimento-mobile</string>
+    <string name="btnVoltar">voltar</string>
+    <string name="btnAgendar">agendar</string>
+    <string name="btnUsuariomedico" />
+    <string name="Usuariomedico">medico</string>
+    <string name="Usuariocomum">comum</string>
+    <string name="listespecialidade">especialidade</string>
+    <string name="btnpesquisar">Pesquisa</string>
+</resources>
